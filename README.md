@@ -4,6 +4,8 @@ I'm a data scientist with a background in applied mathematics and statistics. I 
 
 Before the MS I managed software projects for a year and a half, so I'm used to scoping work, writing for non-technical readers and shipping on deadlines.
 
+**Portfolio:** [mehtesham13.github.io](https://mehtesham13.github.io)
+
 **Open to:** Data Scientist, Data Analyst, ML Engineer and Risk/Fraud Analytics roles in New York or remote.
 
 #### Tools I use
@@ -11,9 +13,9 @@ Before the MS I managed software projects for a year and a half, so I'm used to 
 | Area | Tools |
 |---|---|
 | Languages | Python, SQL, Cypher |
-| Machine learning | scikit-learn, XGBoost, SHAP, Isolation Forest, TF-IDF text models |
+| Machine learning | scikit-learn, XGBoost, SHAP, Isolation Forest, TF-IDF text models, retrieval-augmented generation |
 | Statistics | Hypothesis testing, power analysis, bootstrap, Bayesian A/B testing, regression, time series (Prophet, statsmodels) |
-| Data & apps | pandas, NumPy, SQLite, Neo4j, Streamlit, Matplotlib, Seaborn |
+| Data & apps | pandas, NumPy, SQLite, Neo4j, Streamlit, pytest, GitHub Actions, Matplotlib, Seaborn |
 
 #### Projects
 
@@ -23,6 +25,7 @@ Before the MS I managed software projects for a year and a half, so I'm used to 
 |---|---|---|
 | [Credit Card Fraud Detection](https://github.com/mehtesham13/credit-card-fraud-detection) | Flags fraud in 284K transactions; XGBoost catches 76% of fraud at 89% precision on a later time period, threshold set by dollar cost | XGBoost, Isolation Forest, SHAP |
 | [Customer Churn Prediction](https://github.com/mehtesham13/customer-churn-prediction) | Predicts telecom churn, explains each customer with SHAP, sizes a retention campaign worth 4x random targeting, and includes a Streamlit app | XGBoost, SHAP, Streamlit |
+| [RAG Question Answering](https://github.com/mehtesham13/rag-docs-qa) | Answers questions about the scikit-learn docs with cited sources; hybrid BM25 + LSA retrieval finds a correct section in the top 5 for 82% of 50 labeled questions | BM25, embeddings, pytest, Streamlit |
 | [IMDB Sentiment Analysis](https://github.com/mehtesham13/imdb-sentiment-analysis) | Classifies 50K reviews at 91.6% accuracy, 22 points above a lexicon baseline, with error analysis | scikit-learn, TF-IDF, VADER |
 | [Diabetes Progression](https://github.com/mehtesham13/diabetes-progression-ml) | Linear regression vs XGBoost with held-out evaluation and learning curves | scikit-learn, XGBoost |
 
@@ -57,4 +60,4 @@ Before the MS I managed software projects for a year and a half, so I'm used to 
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-ehtesham-dsa) · mahtsham484@gmail.com
+[Portfolio](https://mehtesham13.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-ehtesham-dsa) · mahtsham484@gmail.com
